@@ -150,3 +150,6 @@ zram.ko
 arm_dsu_pmu.ko
 mtk-smi-bwc.ko
 utag.ko
+chipone9916.ko
+ilitek.ko
+omnivision_tcm.ko
